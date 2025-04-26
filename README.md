@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![](https://raw.githubusercontent.com/sazankaa/sazankaa/output/github-contribution-grid-snake.svg
+![](https://raw.githubusercontent.com/sazankaa/sazankaa/output/github-contribution-grid-snake.svg)
 
 <p align="left">
   <a href="https://github.com/sazankaa">
