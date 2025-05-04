@@ -1,8 +1,6 @@
 ## Hi there 👋
 no Local repos
 
-![](https://raw.githubusercontent.com/sazankaa/sazankaa/output/github-contribution-grid-snake.svg)
-
 <p align="left">
   <a href="https://github.com/sazankaa">
     <img height="20" src="https://img.shields.io/github/followers/sazankaa?label=follow&logo=github&style=flat" />
